@@ -6,6 +6,7 @@
     "node": ">=6.0"
   },
   "dependencies": {
+    "bluebird": "^3.5.1",
     "compress": "^0.99.0",
     "debug": "^3.1.0",
     "httpntlm": "^1.6.1",
